@@ -1,6 +1,6 @@
 # 🐾 Proyecto: Cuadrúpedo Educativo con Arduino + FreeRTOS
 
-## 📌 Descripción breve
+## Descripción breve
 Este proyecto consiste en el desarrollo de un robot cuadrúpedo de bajo costo orientado al **aprendizaje de robótica para estudiantes en Bolivia**.  
 Está construido con **MDF y acrílico cortado en láser**, utiliza **servomotores SG90/MG995**, un **Arduino Nano**, **FreeRTOS** para tareas concurrentes, y un **sensor ultrasónico** que actúa como sistema de detección de obstáculos.  
 
@@ -12,13 +12,13 @@ El robot es capaz de:
 
 ---
 
-## 🧩 Diagrama (FSM / Arquitectura)
+## Diagrama (FSM / Arquitectura)
 El diagrama se encuentra en la carpeta:
 ![FMS](CodigoGeneral/Imagenes/FMS.png)
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 ### 🔹 Hardware
 - Arduino Nano / ATmega328P  
@@ -52,7 +52,7 @@ El diagrama se encuentra en la carpeta:
 
 ---
 
-## 🚀 Estado actual del proyecto (avances)
+## Estado actual del proyecto (avances)
 
 ### ✔ Completado
 - Diseño e impresión/corte del chasis en acrílico y MDF  
