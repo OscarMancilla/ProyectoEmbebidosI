@@ -14,7 +14,7 @@ El robot es capaz de:
 
 ## 🧩 Diagrama (FSM / Arquitectura)
 El diagrama se encuentra en la carpeta:
-
+![FMS](Imagenes/FMS.png)
 
 ---
 
@@ -49,7 +49,6 @@ El diagrama se encuentra en la carpeta:
 | Integrante        | Rol en el proyecto                                   |
 |------------------|--------------------------------------------------------|
 | **Oscar Mancilla** | Líder del proyecto, programación embebida, diseño mecánico, diseño del gait (caminar), integración del sensor y FreeRTOS |
-| *(Agregar si existen otros integrantes)* | — |
 
 ---
 
