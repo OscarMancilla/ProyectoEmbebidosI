@@ -14,7 +14,7 @@ El robot es capaz de:
 
 ## Diagrama (FSM / Arquitectura)
 El diagrama se encuentra en la carpeta:
-![FMS](Imagenes/FSM.pdf)
+![FMS](Imagenes/FSM_page-0001.jpg)
 
 ---
 
